@@ -1,0 +1,21 @@
+{
+  "name": "patterns",
+  "version": "0.0.1",
+  "description": "Patterns.dev 是一本关于设计模式和组件模式的免费书籍，用于使用原生 JavaScript 和 React 构建强大的 Web 应用程序。 ",
+  "scripts": {
+    "postinstall": "patch-package",
+    "start": "npm run dev",
+    "dev": "dumi dev",
+    "build": "dumi build",
+    "prepare": "dumi setup"
+  },
+  "authors": [
+    "luozhu2021@gmail.com"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "dumi": "2.2.1",
+    "core-js": "3.31.0",
+    "patch-package": "^7.0.0"
+  }
+}
