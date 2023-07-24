@@ -7,7 +7,7 @@ hero:
   description: 现代 Web 应用设计模式
   actions:
     - text: 开始
-      link: /design
+      link: /design-pattern
     - text: GitHub
       link: https://github.com/zizhuspot/patterns
 features:
