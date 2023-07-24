@@ -1,7 +1,7 @@
 {
   "name": "patterns",
   "version": "0.0.1",
-  "description": "Patterns.dev 是一本关于设计模式和组件模式的免费书籍，用于使用原生 JavaScript 和 React 构建强大的 Web 应用程序。",
+  "description": "用于使用原生 JavaScript 和 React 构建强大的 Web 应用程序的设计模式。",
   "scripts": {
     "postinstall": "patch-package",
     "start": "npm run dev",

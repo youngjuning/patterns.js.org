@@ -1,6 +1,6 @@
 ---
 title: 现代 Web 应用设计模式
-description: Patterns.dev 是一本关于设计模式和组件模式的免费书籍，用于使用原生 JavaScript 和 React 构建强大的 Web 应用程序。
+description: 用于使用原生 JavaScript 和 React 构建强大的 Web 应用程序的设计模式。
 keywords: [React, JavaScript, 设计模式, Pattern, Webapp]
 hero:
   title: Patterns
