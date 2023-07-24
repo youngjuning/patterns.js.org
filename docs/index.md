@@ -1,7 +1,7 @@
 ---
 title: 现代 Web 应用设计模式
 description: 用于使用原生 JavaScript 和 React 构建强大的 Web 应用程序的设计模式。
-keywords: [React, JavaScript, 设计模式, Pattern, Webapp]
+keywords: [React, JavaScript, 设计模式, Pattern, Webapp, 性能模式, 渲染模式]
 hero:
   title: Patterns
   description: 现代 Web 应用设计模式
