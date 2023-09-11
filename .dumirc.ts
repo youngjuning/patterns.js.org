@@ -8,11 +8,11 @@ export default defineConfig({
     logo: 'https://www.patterns.dev/favicon.ico',
     prefersColor: { default: 'auto' },
     socialLinks: {
-      github: 'https://github.com/zizhuspot/patterns',
+      github: 'https://github.com/youngjuning/patterns.js.org',
       twitter: 'https://twitter.com/luozhu2021'
     },
     hd: { rules: [] },
-    footer: '<a href="/sitemap.xml" target="_blank">站点地图</a><br/>Made with ❤️ by <a href="https://github.com/zizhuspot" target="_blank">紫竹光点计划</a>'
+    footer: 'Made with ❤️ by <a href="https://github.com/youngjuning" target="_blank">紫竹</a>'
   },
   theme: {
     '@c-primary': '#ec008c',

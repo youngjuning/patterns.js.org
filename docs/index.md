@@ -9,7 +9,7 @@ hero:
     - text: 开始
       link: /design-pattern
     - text: GitHub
-      link: https://github.com/zizhuspot/patterns
+      link: https://github.com/youngjuning/patterns.js.org
 features:
   - title: ES2017+
     emoji: 💎
