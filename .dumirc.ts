@@ -7,6 +7,7 @@ export default defineConfig({
     name: 'Patterns',
     logo: 'https://www.patterns.dev/favicon.ico',
     prefersColor: { default: 'auto' },
+    editLink: "https://github.com/youngjuning/patterns.js.org/edit/main/{filename}",
     socialLinks: {
       github: 'https://github.com/youngjuning/patterns.js.org',
       twitter: 'https://twitter.com/luozhu2021'
@@ -27,6 +28,6 @@ export default defineConfig({
   hash: true,
   exportStatic: {},
   headScripts: [
-    {src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7029815294762181', async: true, crossorigin: 'anonymous'},
+    {src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7962287588031867', async: true, crossorigin: 'anonymous'},
   ]
 });
